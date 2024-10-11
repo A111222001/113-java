@@ -12,13 +12,16 @@ class Clothes {
 public class ShallowCopy {
     public static void main(String[] args) {
         Clothes[] c1 = {new Clothes("red", 'L'), new Clothes("blue", 'M')};
-        var c2 = new Clothes[c1.length];
+        Clothes[] c2 = new Clothes[c1.length];
+        Clothes[] c3 = c1.clone();
         
         for(var i = 0; i < c1.length; i++) {
-            c2[i] = c1[i];
+            c2[i] = c1[i]; //指的是同個物件
         }
         
         c1[0].color = "yellow";
-        System.out.println(c2[0].color);
+        System.out.println(c2[0].color); 
+        //c1[0]變黃色，所以c2[0]也變黃色
+        System.out.println(c3[0].color); 
     }
 } 
