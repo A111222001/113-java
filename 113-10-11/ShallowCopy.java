@@ -1,4 +1,4 @@
-package cc.openhome;
+
 
 class Clothes {
     String color;
