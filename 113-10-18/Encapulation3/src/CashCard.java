@@ -9,6 +9,22 @@ class CashCard {
         this.bonus = bonus;
     }
 
+    public String getNumber() {
+        return number;
+    }
+
+    public int getBonus() {
+        return bonus;
+    }
+
+    public int getBalance() {
+        return balance;
+    }
+
+    void setNumber(String number){
+        this.number = number;
+    }
+
     void store(int money){
         if (money > 0){
             this.balance += money;

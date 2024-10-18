@@ -14,11 +14,12 @@ public class CardApp {
 
         for(CashCard card : cards) {
             System.out.printf("為(%s, %d, %d)儲值",
-                    card.number, card.balance, card.bonus);
-            //card.store(input.nextInt());
-            card.balance += input.nextInt();
+                    card.getNumber(), card.getBalance(), card.getBonus());
+
+            card.store(input.nextInt());
+
             System.out.printf("明細(%s, %d, %d)%n",
-                    card.number, card.balance, card.bonus);
+                    card.getNumber(), card.getBalance(), card.getBonus());
         }
     }
 }
