@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="392035ec-0fba-4149-9ad5-9b2a92507765" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Interface2/src/Anemonefish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface2/src/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface2/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface2/src/Piranha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface2/src/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface2/src/Submarine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface2/src/Swimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface5/src/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interface5/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Anemonefish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Diver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Flyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/FlyingFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Helicopter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Ocean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Piranha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Seaplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Submarine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/SwimPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface4/src/Swimmer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2pVVP7iZBOJASCfTQCfEmMU2voS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/s303/Documents/GitHub/113-java/113-11-29/innerClass/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="392035ec-0fba-4149-9ad5-9b2a92507765" name="Changes" comment="" />
+      <created>1732851204360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732851204360</updated>
+    </task>
+    <servers />
+  </component>
+</project>
